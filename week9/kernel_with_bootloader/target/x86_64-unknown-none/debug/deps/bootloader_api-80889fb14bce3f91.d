@@ -1,0 +1,13 @@
+/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/libbootloader_api-80889fb14bce3f91.rmeta: /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/concat.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/version_info.rs
+
+/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/libbootloader_api-80889fb14bce3f91.rlib: /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/concat.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/version_info.rs
+
+/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/deps/bootloader_api-80889fb14bce3f91.d: /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs /home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/concat.rs /home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/version_info.rs
+
+/home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/lib.rs:
+/home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/config.rs:
+/home/adebare/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bootloader_api-0.11.9/src/info.rs:
+/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/concat.rs:
+/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out/version_info.rs:
+
+# env-dep:OUT_DIR=/home/csc308/week9/kernel_with_bootloader/target/x86_64-unknown-none/debug/build/bootloader_api-1e3a59b21bca1f94/out
