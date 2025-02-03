@@ -1,11 +1,24 @@
 fn main() {
-    // println!("Hello, world!");
+    /*let age = 15;
+    match age {
+        18 => println!("you are an adult"),
+        10..=15 => println!("you are 10!"),
+        _ => println!("invalid option"),
+    }*/
 
-    let age = 10;
 
-    match age{
-        18=> println!("You are an adult"),
-        10=> println!("You are 10!"),
-        _=> println!("Invalid option!")
-    }
+    // let account_balance: Option<i32> = Some(8824628);
+    // match account_balance {
+    //     Some(value) => println!("Value was retrived: {}", value),
+    //     None => println!("Nothing was retrieved!")
+    // 
+    
+    
+        macro_rules! testing {
+            ($arg:expr) => {
+                println!("Testing a macro! : {}", $arg);
+            };
+        }
+
+        testing!("leemao");
 }
